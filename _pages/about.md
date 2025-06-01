@@ -34,17 +34,6 @@ permalink: /about/
 </div>
 {% endfor %}
 
-{% if site.data.grants %}
-
-<div class="jumbotron">
-  <h3>Grants</h3>
-  <ul>
-    {% for grant in site.data.grants %}
-      <li>{{ grant.name }}</li>
-    {% endfor %}
-  </ul>
-</div>
-{% endif %}
 
 {% if site.data.awards %}
 

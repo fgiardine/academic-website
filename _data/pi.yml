@@ -1,17 +1,15 @@
-- name: Dr. Richard Feynman
+- name: Francesca Giardine
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+  info: Ph.D. Candidate in Electrical Engineering and Computer Sciences, University of California, Berkeley
+  email: fgiardine@berkeley.edu
+  scholar: https://scholar.google.com/citations?user=ZNn0qHAAAAAJ&hl=en
+  cv: cv
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "B.S. Engineering Science and Mathematics, Smith College (2020)",
+      "Ph.D. EECS, University of California Berkeley (Expected 2026) ",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(Expected, 2026) Ph.D. Electrical Engineering and Computer Sciences, University of California, Berkeley", "(2020) B.S. Engineering Science and Mathematics, Smith College"]
