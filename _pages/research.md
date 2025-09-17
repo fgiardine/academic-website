@@ -36,7 +36,7 @@ iframe {
 <div class="col-md-12 col-sm-12">
 <h4>Flying Capacitor Multilevel Converters in DC-AC/AC-DC Applications</h4>
 
-The flying capacitor multilevel (FCML) converter is a type of hybrid switched capacitor converter that is known for high efficiencies and volumetric power densities. This converter is accomplished through the use of lower voltage, high figure-of-merit switching devices. The FCML converter performs much of its energy conditioning via energy-dense capacitors that enable higher volumetric power densities, which is essential in volume-sensitive applications such as electrified transportation. Through careful modulation of the semiconductor switches, improvements in efficiency and component utilization can be achieved.
+The flying capacitor multilevel (FCML) converter is a type of hybrid switched capacitor converter that is known for high efficiencies and volumetric power densities. This is accomplished through the use of lower voltage, high figure-of-merit switching devices. The FCML converter performs much of its energy conditioning via energy-dense capacitors that enable higher volumetric power densities, which is essential in volume-sensitive applications such as electrified transportation. In some of my work, I have explored how variable switching frequencies can be used to improve converter efficiency without violating key component current and voltage ripple constraints. 
 
 <div class="container">
 <div class="row">
@@ -54,7 +54,7 @@ The flying capacitor multilevel (FCML) converter is a type of hybrid switched ca
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h4>Electromagnetic Interference for High Performance Converters </h4>
-Electromagnetic interference (EMI) is critical in all application where power converters are connected to other equipment. In my work I have explored how EMI can be improved through variable frequency control in FCML converters, as well as fundamental EMI generation for FCML converters.
+Electromagnetic interference (EMI) is critical in all application where power converters are connected to other equipment. In my work I have explored how EMI can be improved through variable frequency control in FCML converters. I have additionally analyzed fundamental EMI generation for FCML converters.
 
 <div class="container">
 <div class="row">

@@ -2,8 +2,10 @@
 title: Francesca Giardine
 email: fgiardine@berkeley.edu
 description: Academic webpage of Francesca Giardine
-baseurl: ""
-url: ""
+url: "http://people.eecs.berkeley.edu"
+baseurl: "/~fgiardine"
+
+environment: production
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX

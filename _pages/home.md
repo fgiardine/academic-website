@@ -16,7 +16,6 @@ Prior to starting my degree at Berkeley, I graduated summa cum laude with my B.S
 <div class="row">
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/pcb.png" width="60%"/><br/>
-Flying Capacitor Multilevel Converter hardware prototype. <br/>
 </center>
 </div>
 </div>
